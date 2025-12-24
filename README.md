@@ -15,3 +15,5 @@
 #7 Factorial of number for e.g. we have 5  the line of code we write make it times by all numbers thar are bellow f example 4 3 2 1 
 
 #8 Prime number check for e.g. we right a line of code and say is 7 prime number then we have a condition which is true so output will be true
+
+Note: i was struggling on Fibonacci Sequence therefore is not here
